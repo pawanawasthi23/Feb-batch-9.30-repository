@@ -17,5 +17,6 @@ public static void main(String[] args) {
 	class1 obj=new class1();
 	obj.sum(12, 13);
 	obj.sum(12.3f, 12.6f);
+	System.out.println("change done by pawan");
 }
 }
